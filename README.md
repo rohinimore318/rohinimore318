@@ -1,19 +1,29 @@
-# 💫 About Me:
-# Hi there 👋, I'm Rohini More<br><br>🌱 Full-Stack Web Developer | Passionate about building 
-**real-world projects** and learning cutting-edge tech  <br><br><br>-🚀 Currently working on:  <br>- pravidairycare-  <br>- Personal web projects & open-source contributions  <br><br>🎯 Goals:  <br>- Build scalable, real-world web apps  <br>- Explore AI & ML integration in web projects  <br>- Keep learning and sharing knowledge with the dev community  <br><br>📫 How to reach me:  <br>- [LinkedIn](https://www.linkedin.com/in/rohini-more)  <br>- [Portfolio / Projects](https://github.com/your-username)  <br>- Email: rohini.email@example.com  <br><br>💡 Fun Fact:  <br>I love turning crazy ideas into working projects and optimizing them for real users 🚀  <br><br>---<br><br>### GitHub Stats<br>![Rohini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohinimore318&show_icons=true&theme=radical)<br>
 
 
-##  How to reach me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@her_highnesss_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ohini-more-461b78263) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Rohini_318) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohinimore318@gmail.com) 
+<h1 align="center">👋 Hi there, I'm <span style="color:#FF9800;">Rohini More</span> ✨</h1>
 
-## 📫 How to Reach Me
+<h3 align="center">💻 Turning ideas into real-world web apps 🚀 | Full-Stack Dev & AI Explorer 🤖</h3>
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZla2pnYzh5a3F0YzZhdXVkNjl1eG03N2EzcDl3aHBsbzJycDEwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uVhWw4M2puM4bUJgM1/giphy.gif" alt="Coding Animation" width="350"/>
+</p>
+
+
+### 🚀 Currently Working On
+- **PraviDairyCare** – Smart dairy care system-Transform Dairy Processing with Innovative Equipment  
+- Personal web projects & open-source contributions  
+
+### 🎯 Goals
+- Build scalable, real-world web apps  
+- Explore AI & ML integration in web projects  
+- Keep learning and sharing knowledge with the dev community
+
+## 👩‍💻 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohini-more-461b78263)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohinimore318@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=about.me&logoColor=white)](https://your-portfolio-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohinimore318)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@Rohini_318)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@her_highnesss_18)
 
 ## 💻 Tech Stack
 
@@ -39,24 +49,22 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohinimore318&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohinimore318&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohinimore318&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
-- Email: rohini.email@example.com  
-
-💡 Fun Fact:  
-I love turning crazy ideas into working projects and optimizing them for real users 🚀  
-
----
-
-### GitHub Stats
 ![Rohini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohinimore318&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohinimore318&layout=compact&theme=radical)
+
+## 🎉 Fun Zone
+
+Here’s a little humor from the world of web development 😎  
+
+- **Why do JavaScript developers wear glasses?**  
+  Because they **don't C#**. 🤓  
+
+- **How do you comfort a JavaScript bug?**  
+  You **console it**. 🐞  
+
+
+
+
